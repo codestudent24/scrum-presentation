@@ -1,0 +1,21 @@
+html {
+    font-size: 16px;
+}
+
+#my-slides .my-slide {
+    opacity: 0.8;
+    font-size: 2rem;
+}
+
+#my-slides .my-title {
+    color: rgb(255, 253, 128);
+    font-size: 3rem;
+}
+
+#my-slides .my-small {
+    font-size: 1.5rem;
+}
+
+#my-slides .my-left {
+    text-align: left;
+}
